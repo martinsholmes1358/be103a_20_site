@@ -11,7 +11,7 @@ sidebar: true
 ---
 
 
-# {{site.data.about.title}}
+# {{Bence Kövér, Martin Holmes, Joshua Anadu}}
 {{site.data.about.authors}}
 
 {% for entry in site.data.about %}
