@@ -10,9 +10,9 @@
 # The content below will appear 
 
 title: >
-  Your Paper Title Here
+  ML for ML for ML for ECDFs
 authors: >
-  Author 1, Author 2, Author 3, Author 4
+  Bence Kövér, Martin Holmes, Joshua Anadu
 Abstract: >
   This is a general purpose website template for conveying your data, code, and
   overall scientific story to the general public! See the
@@ -30,21 +30,19 @@ Abstract: >
 
 
   Your abstract goes here.
-  Lorem ipsum dolor amet post-ironic aliquip next level vaporware, dolore
-  yuccie trust fund etsy officia blue bottle distillery ad. Raw denim swag
-  selvage wolf, direct trade air plant reprehenderit you probably haven’t heard
-  of them. Aute craft beer cray, pariatur la croix lumbersexual chillwave
-  fashion axe pug adipisicing woke banh mi. Hammock asymmetrical sustainable
-  keffiyeh biodiesel. Banjo trust fund leggings direct trade. Cronut plaid
-  shaman whatever, disrupt ad tofu minim pug dolore forage franzen glossier.
-  Small batch humblebrag ut, artisan health goth edison bulb voluptate lorem
-  dolore chillwave mumblecore iPhone craft beer ex. Enim fingerstache kale
-  chips, VHS succulents butcher meggings woke lo-fi mustache chicharrones chia
-  id consectetur. Gochujang taiyaki incididunt, chartreuse tumblr poutine banjo
-  culpa helvetica eu master cleanse migas umami. Dreamcatcher aliquip hexagon
-  disrupt deep v ugh, banjo truffaut distillery flannel la croix copper mug. Af
-  8-bit tattooed asymmetrical mumblecore swag direct trade iPhone disrupt
-  exercitation mixtape.
+  Microtubules are dynamically stable subcellular structures that play a vital role 
+  in cell stability, mitotosis, intracellular transport, and motility.
+  Research investigating these structures generally involves the use of modern
+  microscopy techniques to probe both static and dynamic properties associated 
+  with these structural units.
+  Hydrolysis of the GDP-bound tubulin subunit at the end of the tubule results in 
+  the onset of a process known as microtubule catastrophe.
+  Catastrophe is characterized by the rapid depolymerization and shrinkage of the tubule structure.
+  In a seminal body of work, Gardner and collaborators explore and constrain processes 
+  historically hypothesized to be associated with catastrophe dynamics. 
+  Our work aimed to recapitulate and possibly reinterpret the results of this paper using 
+  various statistical techniques to investigate both the efficacy of the experimental design 
+  and throughly model the event distribution associated catastrophe kinetics.
 Summary:  >
   A short summary of your work goes here. Think "significance statement".
   Nisi bushwick seitan et authentic aute, laboris blog sed in wayfarers lyft
