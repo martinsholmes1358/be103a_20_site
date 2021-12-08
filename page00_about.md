@@ -2,8 +2,8 @@
 layout: page
 title: About
 description: Information about the project, website, and links to the paper and SI
-img: about.png # Add image post (optional)
-caption: "A Serious Man (2010)"
+img: catastrophe.png # Add image post (optional)
+caption: "Microtubule Catastrophe - Tu Wien"
 permalink: index.html
 sidebar: true
 ---
@@ -11,7 +11,7 @@ sidebar: true
 ---
 
 
-# {{site.data.about.title}}
+# {{Bence Kövér, Martin Holmes, Joshua Anadu}}
 {{site.data.about.authors}}
 
 {% for entry in site.data.about %}
