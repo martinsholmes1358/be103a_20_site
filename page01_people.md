@@ -2,8 +2,8 @@
 layout: page
 title: People
 description: About the authors
-img: people.png 
-caption: "Looking directly at the eclipse."
+img: einstein_ECDF.jpg 
+caption: "The Greatest Gedankenexperiment."
 permalink: people
 sidebar: true
 ---
