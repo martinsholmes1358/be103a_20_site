@@ -9,27 +9,23 @@
 # of the `page01_people.md` file.
 # ##############################################################################
 - author:
-  name: Bence Kövér
-  link: "https://www.linkedin.com/in/ben-kover/?originalSubdomain=uk"
-  title: UNdergraduate Student
-  img: bence_kover.jfif
-  institute: University College London
+  name: Dr. Osophila
+  link: "https://en.wikipedia.org/wiki/Drosophila"
+  title: Postdoctoral Scholar
+  img: dr_osophila.jpg
+  institute: Bicoid Institute of Development
   other_info:
-     Email Address: "bkover@caltech.edu"
+     Email Address: "flyguy@university.edu"
 - author:
-  name: Martin Holmes
+  name: Dr. Melanie O'Gaster
   link: "https://en.wikipedia.org/wiki/Drosophila_melanogaster"
-  title: Undergraduate Student
+  title: Postdoctoral Scholar
   img: melanogaster.jpg
-  institute: California Institute of Technology
+  institute: French Flag Research Institute
   other_info:
-    Email Address: "msholmes@caltech.edu"
+    Current Location: Apple Juice Plates, Inc
 
 - author:
-  name: Joshua Anadu
-  link: "joshanadu.com"
-  title: Graduate Student
-  img: anadu_banner.jpg
-  institute: California Institute of Technology
-  other_info:
-    Email Address: "janadu@caltech.edu"
+  name: Sally Monella
+  title: Research Technician
+  institute: French Flag Research Institute
